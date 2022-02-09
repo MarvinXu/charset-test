@@ -1,0 +1,1 @@
+document.body.append('好')
